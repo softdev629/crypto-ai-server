@@ -16,9 +16,9 @@ class LatestInfoTool(BaseTool):
     def _run(self, query: str) -> str:
         """Use the tool."""
 
-        search = SerpAPIWrapper()
+        search = GoogleSearchAPIWrapper()
 
-        return search.run(query)
+        return search.results(query, 5)
 
     async def _arun(self, query: str) -> str:
         """Use the tool asynchronously."""
