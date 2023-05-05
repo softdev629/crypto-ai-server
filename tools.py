@@ -1,6 +1,6 @@
 from langchain.chat_models import ChatOpenAI
 from langchain.tools import BaseTool
-from langchain.utilities import GoogleSearchAPIWrapper, SerpAPIWrapper
+from langchain.utilities import GoogleSearchAPIWrapper
 from langchain.agents import load_tools
 from dotenv import load_dotenv
 
