@@ -1,5 +1,3 @@
-Sure! Here's the updated README with the specified configuration sections:
-
 # Crypto Chatbot WebSocket API Backend
 
 Welcome to the Crypto Chatbot WebSocket API Backend! This project is designed to provide API WebSocket endpoints specifically for a cryptocurrency-focused chatbot. Built with the modern FastAPI framework, this backend leverages the Langchain NLP framework to deliver insightful and intelligent chat interactions about cryptocurrencies.
