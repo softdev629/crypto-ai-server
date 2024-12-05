@@ -14,8 +14,8 @@ Welcome to the Crypto Chatbot WebSocket API Backend! This project is designed to
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/crypto-chatbot-websocket-api-backend.git
-   cd crypto-chatbot-websocket-api-backend
+   git clone https://github.com/softdev629/crypto-ai-server.git
+   cd crypto-ai-server
    ```
 
 2. **Create a Virtual Environment:**
